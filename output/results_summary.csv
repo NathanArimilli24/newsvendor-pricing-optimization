@@ -1,0 +1,21 @@
+metric,value
+beta_0 (intercept),1924.7175
+beta_1 (slope),-1367.7125
+residual std,149.452
+Part 3: q* at p=1,471.8654
+Part 3: expected profit,231.4837
+Part 4: p*,0.9536
+Part 4: q*,535.291
+Part 4: expected profit,234.4249
+Part 7: bootstrap price mean,0.9549
+Part 7: bootstrap price std,0.014
+Part 7: bootstrap quantity mean,535.4729
+Part 7: bootstrap quantity std,34.9378
+Part 7: bootstrap profit mean,234.8586
+Part 7: bootstrap profit std,9.0047
+Part 8: boss q (standard NVM),569.8968
+Part 8: boss profit (true costs),222.6268
+Part 8: fixed-model profit (true costs),231.4837
+Part 8: our profit (true costs),234.4249
+Part 8: gain over boss ($),11.7982
+Part 8: gain over boss (%),5.2995

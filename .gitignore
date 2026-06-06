@@ -1,0 +1,22 @@
+# Local-only portfolio website copy
+website/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Gurobi
+*.log
+gurobi.log
